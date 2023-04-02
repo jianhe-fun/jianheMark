@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @jianheMark
-- 👀 I’m interested in PostgreSQL, Data Analysics
-- 🌱 I’m currently learning SQL. 
-- 💞️ I’m looking to collaborate on ...
-- 📫 jianhe.mark@pm.me
+- 👋 Hi, I’m jian he
+- 👀 I’m interested in Postgres
+- 🌱 I’m currently learning postgres
+- 💞️ I’m looking to collaborate on postgres
+- 📫 StackOverflow profile: https://stackoverflow.com/users/15603477/jian
 - My PostgreSQL Window Function Explanation: https://gist.github.com/jianheMark/ad7a974c45f9cd3487fb8ebd645ab0ea
 - PostgrteSQL Index: https://telegra.ph/PostgreSQL-Index-12-03
 - 
