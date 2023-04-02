@@ -4,8 +4,7 @@
 - 💞️ I’m looking to collaborate on postgres
 - 📫 StackOverflow profile: https://stackoverflow.com/users/15603477/jian
 -  Window Function demo: https://gist.github.com/jianheMark/ad7a974c45f9cd3487fb8ebd645ab0ea
-
-- 
+-  postgres misc:  https://github.com/jianheMark/postgres_misc
 
 <!---
 jianheMark/jianheMark is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
